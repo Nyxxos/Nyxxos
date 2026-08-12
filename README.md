@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Your Name Here!</h1>
 
-<h3>AI Engineer • Machine Learning Engineer • Generative AI Developer</h3>
+<h3>MEng Mechanical Engineering | AI, Machine Learning & Robotics | Medical & Intelligent Systems</h3>
 <p>
 Building intelligent software using Machine Learning, Large Language Models,
 Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
