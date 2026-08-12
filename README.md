@@ -27,7 +27,13 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 <table>
   <tr>
     <td width="65%">
-    <p>I am an aspiring <strong>[Your Primary Role, e.g., AI Engineer]</strong> with a passion for building intelligent software that solves real-world problems.</p>
+    <p>I'm Haroon, a Mechanical Engineering graduate from UCL, where I graduated with First-Class Honours. Over the course of my degree I became increasingly interested in robotics, mechatronics and AI, particularly where they can be used to solve real engineering problems.
+
+I've worked on projects involving UAV design and testing, control systems, robotic path planning, soft robotics, computer vision and mechanical simulation. More recently, I've been developing my software and AI skills through Python, machine learning and generative AI projects.
+
+Medical robotics is an area I'm especially interested in. I like the idea of bringing together mechanics, control, sensing and AI to build systems that have a real-world impact. At the same time, I'm interested in opportunities across AI/ML, robotics, autonomous systems, mechatronics and engineering more broadly.
+
+Right now, I'm building an Intelligent Surgical Teleoperation Simulator in Python and PyBullet as my first major independent robotics project, and I'm using this GitHub to document what I build and learn along the way.</p>
     <h3>My primary interests include:</h3>
     <ul>
       <li>Artificial Intelligence</li>
