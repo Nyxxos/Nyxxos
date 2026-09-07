@@ -4,12 +4,12 @@
 
 <div align="center">
 
-<h1>Hi, I'm Haroon!</h1>
+<h1>Hi, I'm Haroon Hussein!</h1>
 
 <h3>AI & Machine Learning • Software • Mechanical Engineering • Robotics</h3>
 
 <p>
-Exploring the intersection of software, intelligent systems and physical engineering
+An aspiring <strong>AI engineer</strong> exploring the intersection of software, intelligent systems and physical engineering
 through coding, design, simulation and hands-on projects.
 </p>
 
@@ -37,7 +37,7 @@ through coding, design, simulation and hands-on projects.
 
 ## About Me
 
-Engineer with interests spanning AI, machine learning, software, robotics and mechanical engineering.
+Engineer with interests spanning <strong>AI engineering, Machine learning, Software, Robotics and Mechanical engineering</strong>.
 Enjoys tackling complex problems, understanding how systems work and turning ideas into something
 practical through code, design, simulation and hands-on building.
 
