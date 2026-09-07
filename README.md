@@ -47,7 +47,7 @@ skills and lead to something new. Currently exploring software, robotics and ele
 to grow across AI/ML and engineering, with plenty more to learn, experiment with and build.
 
 <p align="center">
-  <img src="assets/Happy%20man.gif" alt="About section animation" width="100%" />
+  <img src="assets/arrow-divider.gif" alt="Section divider" width="100%" />
 </p>
 
 ## Tools & Technologies
@@ -106,15 +106,17 @@ to grow across AI/ML and engineering, with plenty more to learn, experiment with
 <div align="center">
 
 <table>
+
 <tr>
-<td width="80%" valign="top">
+
+<td width="85%" valign="top">
 
 <h3 align="center">🩹 Wound Vision</h3>
 
 <p align="center">
 Computer vision project currently in development using transfer learning to classify wound images.
 The project explores model evaluation, confidence thresholds and responsible AI behaviour while being
-built into a simple end-to-end application.
+developed into an end-to-end application.
 </p>
 
 <p align="center">
@@ -128,13 +130,15 @@ built into a simple end-to-end application.
 </p>
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
 
 <p align="center">
-  <img src="assets/Walking%20man%281%29.gif" alt="Projects section animation" width="100%" />
+  <img src="assets/arrow-divider.gif" alt="Section divider" width="100%" />
 </p>
 
 ## Currently Learning
@@ -196,5 +200,13 @@ built into a simple end-to-end application.
 ## GitHub Activity
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyxxos&theme=github-dark&hide_border=true"/>
+  <img
+    width="80%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Nyxxos&theme=github-dark&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img src="assets/arrow-divider.gif" alt="Section divider" width="100%" />
 </p>
