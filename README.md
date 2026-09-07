@@ -2,10 +2,12 @@
 
 <h1>Hi, I'm Your Name Here!</h1>
 
-<h3>AI Engineer • Machine Learning Engineer • Generative AI Developer</h3>
+<h3>AI & Machine Learning • Software • Mechanical Engineering • Robotics</h3>
 <p>
-Building intelligent software using Machine Learning, Large Language Models,
-Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
+<p>
+Exploring the intersection of software, intelligent systems and physical engineering
+through coding, design, simulation and hands-on projects.
+</p>
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Large+Language+Models;Retrieval-Augmented+Generation;Building+AI+Applications" />
 </div>
@@ -27,23 +29,29 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 <table>
   <tr>
     <td width="65%">
-    <p>I am an aspiring <strong>[Your Primary Role, e.g., AI Engineer]</strong> with a passion for building intelligent software that solves real-world problems.</p>
-    <h3>My primary interests include:</h3>
-    <ul>
-      <li>Artificial Intelligence</li>
-      <li>Machine Learning</li>
-      <li>Large Language Models</li>
-      <li>Retrieval-Augmented Generation</li>
-      <li>Natural Language Processing</li>
-      <li>Computer Vision</li>
-      <li>Data Science</li>
-      <li>Cloud AI</li>
-      <li>MLOps</li>
-    </ul>
-    <p>I enjoy turning data into intelligent applications while continuously exploring the latest AI technologies.</p>
+
+      <p>
+        Engineer with interests spanning AI, machine learning, software, robotics and mechanical engineering. 
+        Enjoys tackling complex problems, understanding how systems work and turning ideas into something 
+        practical through code, design, simulation and hands-on building.
+      </p>
+
+      <p>
+        Currently developing skills in Python, AI/ML and software through projects involving computer vision, 
+        NLP and RAG, alongside an engineering background in mechanical design, CFD, FEA, control systems and 
+        prototyping. Experience with tools including PyTorch, MATLAB/Simulink, ANSYS, Fusion 360 and SolidWorks, 
+        with a growing interest in bringing software and physical engineering together.
+      </p>
+
+      <p>
+        Still learning and always looking to improve, with a genuine enjoyment of challenges that push existing 
+        skills and lead to something new. Currently exploring Arduino, electronics, circuit boards and robotics 
+        while continuing to grow in AI/ML and software, with plenty more to learn, experiment with and build.
+      </p>
+
     </td>
+
     <td width="35%" align="center">
-      <!-- Your Profile URL Here You can use the profile picture from your Linkedin -->
       <img src="Image Address Here">
     </td>
   </tr>
