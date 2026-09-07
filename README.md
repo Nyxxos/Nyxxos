@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/red-white-divider.gif" alt="Section divider" width="100%" />
+  <img src="assets/black-white-divider.gif" alt="Section divider" width="100%" />
 </p>
 
 <div align="center">
@@ -32,7 +32,7 @@ through coding, design, simulation and hands-on projects.
 </div>
 
 <p align="center">
-  <img src="assets/red-white-divider.gif" alt="Section divider" width="100%" />
+  <img src="assets/black-white-divider.gif" alt="Section divider" width="100%" />
 </p>
 
 ## About Me
@@ -51,7 +51,7 @@ skills and lead to something new. Currently exploring software, robotics and ele
 to grow across AI/ML and engineering, with plenty more to learn, experiment with and build.
 
 <p align="center">
-  <img src="assets/red-white-divider.gif" alt="Section divider" width="100%" />
+  <img src="assets/black-white-divider.gif" alt="Section divider" width="100%" />
 </p>
 
 ## Tools & Technologies
@@ -102,7 +102,7 @@ to grow across AI/ML and engineering, with plenty more to learn, experiment with
 </p>
 
 <p align="center">
-  <img src="assets/red-white-divider.gif" alt="Section divider" width="100%" />
+  <img src="assets/black-white-divider.gif" alt="Section divider" width="100%" />
 </p>
 
 ## Featured Project
@@ -142,7 +142,7 @@ being developed into an end-to-end application.
 </div>
 
 <p align="center">
-  <img src="assets/red-white-divider.gif" alt="Section divider" width="100%" />
+  <img src="assets/black-white-divider.gif" alt="Section divider" width="100%" />
 </p>
 
 ## Currently Learning
@@ -198,7 +198,7 @@ being developed into an end-to-end application.
 </table>
 
 <p align="center">
-  <img src="assets/red-white-divider.gif" alt="Section divider" width="100%" />
+  <img src="assets/black-white-divider.gif" alt="Section divider" width="100%" />
 </p>
 
 ## GitHub Activity
@@ -212,5 +212,5 @@ being developed into an end-to-end application.
 </p>
 
 <p align="center">
-  <img src="assets/red-white-divider.gif" alt="Section divider" width="100%" />
+  <img src="assets/black-white-divider.gif" alt="Section divider" width="100%" />
 </p>
