@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/red-white-divider.gif" alt="Section divider" width="100%" />
+</p>
+
 <div align="center">
 
 <h1>Hi, I'm Haroon!</h1>
