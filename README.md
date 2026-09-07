@@ -27,46 +27,32 @@ through coding, design, simulation and hands-on projects.
 
 </div>
 
+<p align="center">
+  <img src="assets/arrow-divider.gif" alt="Section divider" width="100%" />
+</p>
 
-<!-- ABOUT ME -->
+## About Me
 
-<br>
-
-<h1>About Me</h1>
-
-<p>
 Engineer with interests spanning AI, machine learning, software, robotics and mechanical engineering.
 Enjoys tackling complex problems, understanding how systems work and turning ideas into something
 practical through code, design, simulation and hands-on building.
-</p>
 
-<p>
 Currently developing skills in Python, AI/ML and software through projects involving computer vision,
 NLP and RAG, alongside an engineering background in mechanical design, CFD, FEA, control systems
 and prototyping. Hands-on experience with tools including PyTorch, MATLAB/Simulink, ANSYS,
 Fusion 360 and SolidWorks, with a growing interest in bringing software and physical engineering together.
-</p>
 
-<p>
 Still learning and always looking to improve, with a genuine enjoyment of challenges that push existing
 skills and lead to something new. Currently exploring software, robotics and electronics while continuing
 to grow across AI/ML and engineering, with plenty more to learn, experiment with and build.
+
+<p align="center">
+  <img src="assets/Happy%20man.gif" alt="About section animation" width="100%" />
 </p>
 
-<br>
+## Tools & Technologies
 
-<div align="center">
-  <img src="./assets/Happy%20man.gif" width="100%" alt="About section divider"/>
-</div>
-
-<br>
-
-
-<!-- TOOLS & TECHNOLOGIES -->
-
-<h1>Tools & Technologies</h1>
-
-<h3>Programming & Data</h3>
+### Programming & Data
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -75,7 +61,7 @@ to grow across AI/ML and engineering, with plenty more to learn, experiment with
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-<h3>AI & Machine Learning</h3>
+### AI & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -85,7 +71,7 @@ to grow across AI/ML and engineering, with plenty more to learn, experiment with
   <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge"/>
 </p>
 
-<h3>LLMs & Retrieval</h3>
+### LLMs & Retrieval
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -94,7 +80,7 @@ to grow across AI/ML and engineering, with plenty more to learn, experiment with
   <img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge"/>
 </p>
 
-<h3>Engineering & Simulation</h3>
+### Engineering & Simulation
 
 <p>
   <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logoColor=black"/>
@@ -104,106 +90,54 @@ to grow across AI/ML and engineering, with plenty more to learn, experiment with
   <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logoColor=black"/>
 </p>
 
-<h3>Development & Cloud</h3>
+### Development & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,git,github,vscode"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-<br>
+<p align="center">
+  <img src="assets/arrow-divider.gif" alt="Section divider" width="100%" />
+</p>
+
+## Featured Project
 
 <div align="center">
-  <img src="./assets/Line.gif" width="100%" alt="Section divider"/>
-</div>
-
-<br>
-
-
-<!-- FEATURED PROJECTS -->
-
-<h1>Featured Projects</h1>
 
 <table>
-
 <tr>
+<td width="80%" valign="top">
 
-<td width="50%" valign="top">
+<h3 align="center">🩹 Wound Vision</h3>
 
-<h3>🩹 Wound Vision</h3>
-
-<p>
-Computer vision project currently in development, exploring transfer learning for wound image
-classification alongside model evaluation, confidence thresholds and responsible AI behaviour.
+<p align="center">
+Computer vision project currently in development using transfer learning to classify wound images.
+The project explores model evaluation, confidence thresholds and responsible AI behaviour while being
+built into a simple end-to-end application.
 </p>
 
-<b>Python • PyTorch • ResNet-18 • Computer Vision • Streamlit</b>
-
-<br><br>
-
-<a href="https://github.com/Nyxxos/Wound-Vision">View Repository →</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>📄 RAG Document Search</h3>
-
-<p>
-Document retrieval system for asking questions against uploaded files using embeddings,
-vector search and retrieval-augmented generation.
+<p align="center">
+  <b>Python • PyTorch • ResNet-18 • Computer Vision • Streamlit</b>
 </p>
 
-<b>Python • LangChain • ChromaDB • OpenAI • TF-IDF</b>
+<p align="center">
+  <a href="https://github.com/Nyxxos/Wound-Vision">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </td>
-
 </tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>💬 Sentiment Analysis</h3>
-
-<p>
-Fine-tuned DistilBERT for sentiment classification and explored how the model handled
-more difficult language including slang, sarcasm and mixed sentiment.
-</p>
-
-<b>Python • PyTorch • Hugging Face • NLP • Streamlit</b>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>⚙️ Engineering & Robotics</h3>
-
-<p>
-Engineering work spanning UAVs, robotics, control systems, mechanical design,
-simulation, optimisation, prototyping and physical testing.
-</p>
-
-<b>ANSYS • Fusion 360 • MATLAB/Simulink • SolidWorks • LabVIEW</b>
-
-</td>
-
-</tr>
-
 </table>
 
-<br>
-
-<div align="center">
-  <img src="./assets/Walking%20man%281%29.gif" width="100%" alt="Projects section divider"/>
 </div>
 
-<br>
+<p align="center">
+  <img src="assets/Walking%20man%281%29.gif" alt="Projects section animation" width="100%" />
+</p>
 
-
-<!-- CURRENTLY LEARNING -->
-
-<h1>Currently Learning</h1>
+## Currently Learning
 
 <table>
 
@@ -255,21 +189,12 @@ simulation, optimisation, prototyping and physical testing.
 
 </table>
 
-<br>
+<p align="center">
+  <img src="assets/arrow-divider.gif" alt="Section divider" width="100%" />
+</p>
 
-<div align="center">
-  <img src="./assets/Line.gif" width="100%" alt="Section divider"/>
-</div>
+## GitHub Activity
 
-<br>
-
-
-<!-- GITHUB ACTIVITY -->
-
-<h1>GitHub Activity</h1>
-
-<div align="center">
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyxxos&theme=github-dark&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyxxos&theme=github-dark&hide_border=true"/>
+</p>
