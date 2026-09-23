@@ -204,35 +204,19 @@ being developed into an end-to-end application.
 ## GitHub Activity
 
 <p align="center">
-  <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
-    <picture>
-      <source
-        srcset="https://gitcolors.vercel.app/api/svg?username=Nyxxos&color=e8efff&theme=dark&mode=mono&preset=none&animate=true&emptyColor=neutral"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://gitcolors.vercel.app/api/svg?username=Nyxxos&color=e8efff&theme=light&mode=mono&preset=none&animate=true&emptyColor=neutral"
-        media="(prefers-color-scheme: light)"
-      />
-      <img
-        src="https://gitcolors.vercel.app/api/svg?username=Nyxxos&color=e8efff&theme=light&mode=mono&preset=none&animate=true&emptyColor=neutral"
-        alt="Nyxxos GitHub contribution graph"
-        width="100%"
-      />
-    </picture>
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Nyxxos&theme=github-dark&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
-
-<p align="center">
-  <img src="assets/black-white-divider.gif" alt="Section divider" width="100%" />
+  <picture>
+    <source
+      srcset="https://gitcolors.vercel.app/api/svg?username=Nyxxos&color=e8efff&theme=dark&mode=mono&preset=none&animate=true&emptyColor=neutral"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://gitcolors.vercel.app/api/svg?username=Nyxxos&color=e8efff&theme=light&mode=mono&preset=none&animate=true&emptyColor=neutral"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://gitcolors.vercel.app/api/svg?username=Nyxxos&color=e8efff&theme=light&mode=mono&preset=none&animate=true&emptyColor=neutral"
+      alt="Nyxxos GitHub contribution graph"
+      width="100%"
+    />
+  </picture>
 </p>
