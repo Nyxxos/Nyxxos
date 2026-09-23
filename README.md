@@ -147,7 +147,7 @@ being developed into an end-to-end application.
 
 ## Currently Learning
 
-<table>
+<table width="34%">
 
 <tr>
 
@@ -179,7 +179,7 @@ being developed into an end-to-end application.
 
 </td>
 
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 <h3>AI & Machine Learning</h3>
 
@@ -204,8 +204,30 @@ being developed into an end-to-end application.
 ## GitHub Activity
 
 <p align="center">
+  <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+    <picture>
+      <source
+        srcset="https://gitcolors.vercel.app/api/svg?username=Nyxxos&color=e8efff&theme=dark&mode=mono&preset=none&animate=true&emptyColor=neutral"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://gitcolors.vercel.app/api/svg?username=Nyxxos&color=e8efff&theme=light&mode=mono&preset=none&animate=true&emptyColor=neutral"
+        media="(prefers-color-scheme: light)"
+      />
+      <img
+        src="https://gitcolors.vercel.app/api/svg?username=Nyxxos&color=e8efff&theme=light&mode=mono&preset=none&animate=true&emptyColor=neutral"
+        alt="Nyxxos GitHub contribution graph"
+        width="100%"
+      />
+    </picture>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
   <img
-    width="80%"
+    width="100%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=Nyxxos&theme=github-dark&hide_border=true"
     alt="GitHub streak"
   />
