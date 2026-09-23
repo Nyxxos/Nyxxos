@@ -202,7 +202,6 @@ being developed into an end-to-end application.
 </p>
 
 ## GitHub Activity
-
 <p align="center">
   <picture>
     <source
@@ -219,4 +218,18 @@ being developed into an end-to-end application.
       width="100%"
     />
   </picture>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    width="80%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Nyxxos&theme=github-dark&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img src="assets/black-white-divider.gif" alt="Section divider" width="100%" />
 </p>
